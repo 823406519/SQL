@@ -24,13 +24,7 @@
 [17.0]: #Set-operation
 [18.0]: #Join
 
-Thanks to my mother: Meiping He
 
-感谢我的母亲： 何梅平
-
-I will try my best to maintain all my project
-
-我会尽我所能去维护我的项目
 
 # SQL Tutorial
 SQL, Structed Query Language, is used to magagement relational database. This tutorial cover the basic concepts of SQL.
