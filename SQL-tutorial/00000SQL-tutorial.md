@@ -12,8 +12,8 @@
 [5.0]: #SQL-expression
 [6.0]: #SQL-function
 [7.0]: #SQL-constraint
-[8.0]: #Create-&-drop-Database
-[9.0]: #Create-&-drop-table
+[8.0]: #Create--drop-Database
+[9.0]: #Create--drop-table
 [10.0]: #Insert-rows-into-table
 [11.0]: #Delete-rows-in-the-table
 [12.0]: #Alter-table
